@@ -1,0 +1,3 @@
+platforms.js corredponds to cordova-cli/node_modules/cordova-lib/src/plugman/platforms.js
+
+sugar.js corresponds to cordova-cli/node_modules/cordova-lib/src/plugman/platforms/sugar.js
